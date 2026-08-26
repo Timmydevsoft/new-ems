@@ -1,0 +1,9 @@
+{
+  "short_name": "AtomApp",
+  "name": "Generated Application",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#0f172a"
+}
